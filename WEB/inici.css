@@ -22,7 +22,7 @@ body{
   top: 0;
   left: 0;
   z-index: -500;
-  margin: 0 auto;}
+  margin-top: 120px;}
 
 #slogan{
   font-family: 'Playfair Display', serif;
