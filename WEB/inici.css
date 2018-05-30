@@ -22,8 +22,10 @@ body{
   top: 0;
   left: 0;
   z-index: -500;
-  margin-top: 90 px;}
-
+  margin-top: 90px;}
+#fondo img{
+margin-top: 90px;
+}
 
 #slogan{
   font-family: 'Playfair Display', serif;
